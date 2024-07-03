@@ -2,6 +2,8 @@
 """
 prime game task
 """
+
+
 def isWinner(x, nums):
     """
     function that determines the winner
